@@ -52,17 +52,4 @@ A Flutter application, To show the use of sqflite database in flutter with struc
 ## More?
 If you have any suggestions or you can make this more better write me, create issue, or you can also write code and send pull request.
 
-## Questions?
- 
-**Ping-Me on :**  [![Twitter](https://img.shields.io/badge/Twitter-%40UTM__Panchasara-blue.svg)](https://twitter.com/UTM_Panchasara)
-[![Facebook](https://img.shields.io/badge/Facebook-Uttam%20Panchasara-blue.svg)](https://www.facebook.com/UttamPanchasara94)
 
-
-<a href="https://stackoverflow.com/users/5719935/uttam-panchasara">
-<img src="https://stackoverflow.com/users/flair/5719935.png" width="208" height="58" alt="profile for Uttam Panchasara at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Uttam Panchasara at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a>
-
-
-# Donate
-> If you found this project helpful, consider buying me a cup of :coffee:
-- Google Pay **(panchasarauttam@okaxis)**
